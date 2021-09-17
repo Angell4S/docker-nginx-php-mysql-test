@@ -5,7 +5,7 @@ if ($mysqli->connect_errno) {
     echo "Fallo al conectar a MySQL: " . $mysqli->connect_error;
 }else{
 
-   echo "<h1>conexion exitosa :))?==%% sdasdsad</h1>";
+   echo "<h1>conexion exitosa :))</h1>";
    echo "<br>";
     
 }
